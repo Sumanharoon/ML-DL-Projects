@@ -1,0 +1,7 @@
+Metric_Name,Score
+Training Accuracy,95.84%
+Testing / Validation Accuracy,94.50%
+Overall Precision,85.16%
+Overall Recall,76.69%
+F1-Score,80.70%
+ROC-AUC Score,97.83%

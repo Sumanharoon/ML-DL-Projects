@@ -1,0 +1,5 @@
+Metric,Value (%)
+Final Training Accuracy,84.26
+Final Testing Accuracy,79.6
+Overfitting Gap (Train - Test),4.66
+Best Saved Epoch,12.0

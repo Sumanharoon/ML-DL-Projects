@@ -1,0 +1,751 @@
+Actual_Category,Predicted_Category,Is_Correct
+Politics,Business & Markets,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Technology,False
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Technology,Technology,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Technology,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Politics,Health,False
+Energy,Politics,False
+Technology,Technology,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Technology,False
+Energy,Business & Markets,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Politics,Business & Markets,False
+Business & Markets,Business & Markets,True
+Politics,Technology,False
+Business & Markets,Business & Markets,True
+Politics,Business & Markets,False
+Business & Markets,Business & Markets,True
+Technology,Technology,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Politics,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Politics,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Technology,False
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Technology,Technology,True
+Business & Markets,Business & Markets,True
+Politics,Business & Markets,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Technology,Technology,True
+Politics,Business & Markets,False
+Technology,Technology,True
+Business & Markets,Business & Markets,True
+Politics,Business & Markets,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Energy,Politics,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Politics,Business & Markets,False
+Business & Markets,Business & Markets,True
+Business & Markets,Politics,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Technology,Business & Markets,False
+Business & Markets,Technology,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Technology,Health,False
+Politics,Business & Markets,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Politics,Business & Markets,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Technology,Technology,True
+Business & Markets,Health,False
+Politics,Business & Markets,False
+Business & Markets,Technology,False
+Business & Markets,Business & Markets,True
+Business & Markets,Politics,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Politics,False
+Business & Markets,Business & Markets,True
+Energy,Politics,False
+Energy,Business & Markets,False
+Politics,Politics,True
+Technology,Technology,True
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Technology,Technology,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Politics,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Business & Markets,Politics,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Energy,Energy,True
+Energy,Business & Markets,False
+Health,Business & Markets,False
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Politics,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Health,Business & Markets,False
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Business & Markets,Politics,False
+Health,Business & Markets,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Technology,Technology,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Technology,False
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Technology,Politics,False
+Energy,Business & Markets,False
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Technology,Technology,True
+Business & Markets,Business & Markets,True
+Technology,Health,False
+Health,Health,True
+Business & Markets,Politics,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Technology,Technology,True
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Technology,Politics,False
+Politics,Politics,True
+Politics,Politics,True
+Energy,Politics,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Technology,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Politics,Politics,True
+Technology,Business & Markets,False
+Business & Markets,Business & Markets,True
+Technology,Business & Markets,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Politics,Business & Markets,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Technology,False
+Business & Markets,Business & Markets,True
+Politics,Business & Markets,False
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Politics,Business & Markets,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Technology,Technology,True
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Technology,Technology,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Technology,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Business & Markets,Technology,False
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Health,Business & Markets,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Health,Business & Markets,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Technology,Technology,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Politics,False
+Technology,Technology,True
+Business & Markets,Politics,False
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Politics,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Technology,Technology,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Energy,Technology,False
+Business & Markets,Technology,False
+Business & Markets,Politics,False
+Technology,Technology,True
+Technology,Technology,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Technology,Health,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Technology,Health,False
+Politics,Politics,True
+Politics,Health,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Technology,Business & Markets,False
+Business & Markets,Business & Markets,True
+Business & Markets,Technology,False
+Politics,Business & Markets,False
+Politics,Business & Markets,False
+Business & Markets,Business & Markets,True
+Politics,Business & Markets,False
+Technology,Technology,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Technology,Business & Markets,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Technology,Business & Markets,False
+Politics,Business & Markets,False
+Technology,Politics,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Politics,Business & Markets,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Politics,Business & Markets,False
+Technology,Technology,True
+Health,Health,True
+Business & Markets,Business & Markets,True
+Politics,Business & Markets,False
+Business & Markets,Business & Markets,True
+Business & Markets,Technology,False
+Business & Markets,Business & Markets,True
+Technology,Technology,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Business & Markets,Technology,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Politics,Business & Markets,False
+Business & Markets,Business & Markets,True
+Business & Markets,Technology,False
+Business & Markets,Business & Markets,True
+Business & Markets,Politics,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Technology,False
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Technology,Technology,True
+Business & Markets,Business & Markets,True
+Business & Markets,Politics,False
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Energy,Business & Markets,False
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Politics,Business & Markets,False
+Business & Markets,Technology,False
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Technology,Business & Markets,False
+Business & Markets,Business & Markets,True
+Technology,Technology,True
+Politics,Business & Markets,False
+Politics,Business & Markets,False
+Technology,Technology,True
+Business & Markets,Business & Markets,True
+Energy,Energy,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Health,Technology,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Technology,Technology,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Energy,Business & Markets,False
+Business & Markets,Business & Markets,True
+Technology,Health,False
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Technology,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Politics,Business & Markets,False
+Politics,Politics,True
+Politics,Politics,True
+Energy,Business & Markets,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Energy,Technology,False
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Technology,Business & Markets,False
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Health,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Technology,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Technology,Technology,True
+Business & Markets,Technology,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Technology,Technology,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Health,Business & Markets,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Technology,Technology,True
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Health,Business & Markets,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Politics,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Technology,Technology,True
+Business & Markets,Business & Markets,True
+Energy,Business & Markets,False
+Business & Markets,Business & Markets,True
+Technology,Technology,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Politics,Business & Markets,False
+Business & Markets,Politics,False
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Politics,Health,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Politics,Business & Markets,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Energy,Health,False
+Politics,Politics,True
+Technology,Technology,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Health,Health,True
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Politics,Business & Markets,False
+Business & Markets,Business & Markets,True
+Health,Business & Markets,False
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Technology,Technology,True
+Business & Markets,Technology,False
+Politics,Politics,True
+Energy,Business & Markets,False
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Politics,Health,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Technology,Business & Markets,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Health,Health,True
+Health,Business & Markets,False
+Energy,Business & Markets,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Technology,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Technology,Business & Markets,False
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Energy,False
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Technology,Technology,True
+Business & Markets,Business & Markets,True
+Health,Business & Markets,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Politics,Business & Markets,False
+Politics,Politics,True
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Health,Business & Markets,False
+Health,Business & Markets,False
+Business & Markets,Business & Markets,True
+Technology,Business & Markets,False
+Politics,Politics,True
+Health,Energy,False
+Business & Markets,Business & Markets,True
+Business & Markets,Politics,False
+Politics,Politics,True
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Business & Markets,Technology,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Technology,Politics,False
+Energy,Politics,False
+Politics,Politics,True
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Business & Markets,Technology,False
+Politics,Politics,True
+Business & Markets,Politics,False
+Business & Markets,Technology,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Politics,Technology,False
+Business & Markets,Business & Markets,True
+Business & Markets,Health,False
+Health,Energy,False
+Technology,Technology,True
+Technology,Technology,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Technology,Technology,True
+Business & Markets,Politics,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Health,Health,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Politics,Business & Markets,False
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Technology,Technology,True
+Health,Politics,False
+Business & Markets,Business & Markets,True
+Energy,Business & Markets,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Technology,Technology,True
+Business & Markets,Business & Markets,True
+Business & Markets,Politics,False
+Politics,Politics,True
+Technology,Technology,True
+Technology,Technology,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Business & Markets,Politics,False
+Business & Markets,Technology,False
+Health,Energy,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Technology,Technology,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Health,Technology,False
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Technology,Technology,True
+Business & Markets,Business & Markets,True
+Energy,Energy,True
+Business & Markets,Politics,False
+Technology,Technology,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Politics,False
+Business & Markets,Business & Markets,True
+Business & Markets,Technology,False
+Business & Markets,Technology,False
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Politics,Business & Markets,False
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Politics,Politics,True
+Business & Markets,Politics,False
+Health,Health,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Politics,Business & Markets,False
+Politics,Politics,True
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Business & Markets,Politics,False
+Business & Markets,Business & Markets,True
+Business & Markets,Technology,False
+Business & Markets,Business & Markets,True
+Business & Markets,Politics,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Technology,Politics,False
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Technology,Technology,True
+Politics,Politics,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True
+Business & Markets,Business & Markets,True

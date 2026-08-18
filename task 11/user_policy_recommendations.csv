@@ -1,0 +1,11 @@
+User_ID,Ground_Truth_Pref,Q_Learning_Action,SARSA_Action,Expected_SARSA_Action,DQN_Action
+0,3,3,3,3,3
+1,4,4,4,4,4
+2,2,2,2,2,2
+3,4,4,4,4,4
+4,4,4,4,4,4
+5,1,1,1,1,1
+6,2,2,2,2,2
+7,2,2,2,2,2
+8,2,2,2,2,2
+9,4,4,4,4,4

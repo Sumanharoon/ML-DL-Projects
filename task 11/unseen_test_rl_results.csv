@@ -1,0 +1,5 @@
+Model,Test Accuracy (%),Avg Test Reward
+Q-Learning,100.0,0.21
+SARSA,100.0,0.21
+Expected SARSA,100.0,0.21
+DQN,100.0,0.21
